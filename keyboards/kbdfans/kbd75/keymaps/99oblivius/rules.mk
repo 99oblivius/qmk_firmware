@@ -1,1 +1,2 @@
 EXTRAFLAGS += -Wno-error
+DYNAMIC_MACRO_ENABLE = yes
